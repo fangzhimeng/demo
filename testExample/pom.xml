@@ -11,6 +11,10 @@
     <modules>
         <module>scalatest</module>
         <module>javatest</module>
+        <module>gotest</module>
+        <module>ctest</module>
+        <module>c++test</module>
+        <module>ctest</module>
     </modules>
 
 

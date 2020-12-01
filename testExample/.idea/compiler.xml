@@ -6,9 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="scalatest" />
+        <module name="gotest" />
+        <module name="ctest" />
         <module name="javatest" />
+        <module name="scalatest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ctest" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
