@@ -1,0 +1,15 @@
+name := "spark-streaming-example"
+ 
+version := "1.0"
+
+assemblyOption in assembly := (assemblyOption in assembly).value.copy(includeScala = false)
+
+scalaVersion := "2.11.8"
+ 
+resolvers += "jitpack" at "https://jitpack.io"
+ 
+libraryDependencies ++= Seq(
+  "org.apache.spark" %% "spark-streaming" % "1.6.1" % "provided",
+  "org.scalaj" %% "scalaj-http" % "2.3.0",
+  "org.jfarcand" % "wcs" % "1.5" 
+)

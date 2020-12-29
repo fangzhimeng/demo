@@ -1,0 +1,54 @@
+
+‹
+java:S1319t"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÇÈşÿÿÿÿ
+‡
+java:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ä¼
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùìˆô
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ññ¸Ğ
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü²¿‹
+P
+java:S1854"5Remove this useless assignment to local variable "b".(Æ¾Î³ıÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "A".(ùìˆô
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(è“€ 
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŞ¦ùÿÿÿÿ
+t
+java:S3012z"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ı™¹üÿÿÿÿ
+i	java:S100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÖÜÆıÿÿÿÿ
+;
+java:S1659‰"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+d	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¼
+8
+java:S1659¢"!Declare "end" on a separate line.(·‰ª­
+O
+java:S1117¡"8Rename "ret" which hides the field declared at line 258.(¤‰Èß
+d	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÂ¿ 
+O
+java:S1197º"8Move the array designator from the variable to the type.(ÌÂ¿ 
+O
+java:S1197º"8Move the array designator from the variable to the type.(ÌÂ¿ 
+i	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øéøÿÿÿÿ
+d	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ú¼Ù
+d	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ññ¸Ğ
+;
+java:S1659›"Declare "h" on a separate line.(ÿ¨šÿÿÿÿÿ
+d	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êé˜Œ
+7
+java:S1659§" Declare "l2" on a separate line.(×ÔŞË
+i	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾é‡ûÿÿÿÿ
+=
+java:S1905¶"&Remove this unnecessary cast to "int".(œ…Èı
+5
+java:S1659Ã"Declare "j" on a separate line.(éÔ¬|
+5
+java:S1659Ã"Declare "k" on a separate line.(éÔ¬|
+u
+java:S3012Ò"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”ãÌĞûÿÿÿÿ
+<
+java:S1481"&Remove this unused "A" local variable.(ùìˆô
+A
+java:S1481"&Remove this unused "b" local variable.(Æ¾Î³ıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ûìéşÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(Ã÷ùßùÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(Å×Ä€ıÿÿÿÿ

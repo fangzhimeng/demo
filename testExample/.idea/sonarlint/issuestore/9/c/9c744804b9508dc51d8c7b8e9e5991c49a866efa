@@ -1,0 +1,6 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã‘èœ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ã‘èœ
+a
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(õ²

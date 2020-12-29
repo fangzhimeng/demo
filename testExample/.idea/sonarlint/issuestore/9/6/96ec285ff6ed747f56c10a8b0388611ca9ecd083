@@ -1,41 +1,41 @@
 
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïööûøÿÿÿÿ8Å×äœŞ.
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á³Ÿƒûÿÿÿÿ8Å×äœŞ.
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ºÕîúÿÿÿÿ8Å×äœŞ.
-U	java:S125"<This block of commented-out lines of code should be removed.(˜‹<8Å×äœŞ.
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ°ÔÂ8Å×äœŞ.
-l
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(º’§G8Å×äœŞ.
-q
-java:S3008"QRename this field "M_MASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘´¾‡şÿÿÿÿ8Å×äœŞ.
-:
-java:S1659"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä„·şÿÿÿÿ8Å×äœŞ.
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‹Êæ8Å×äœŞ.
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×“Î†8Å×äœŞ.
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é·¦¸ûÿÿÿÿ8Å×äœŞ.
-U	java:S125"<This block of commented-out lines of code should be removed.(ı™œ8Å×äœŞ.
+p	java:S100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¶ùÿÿÿÿ8Å×äœŞ.
+s
+java:S3008G"QRename this field "M_MASK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘´¾‡şÿÿÿÿ8Å×äœŞ.
+p	java:S100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïööûøÿÿÿÿ8Å×äœŞ.
+k	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÃê8Å×äœŞ.
+X	java:S125à"<This block of commented-out lines of code should be removed.(ı™œ8Å×äœŞ.
+p	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä„·şÿÿÿÿ8Å×äœŞ.
+u
+java:S3008›"RRename this field "M_SHIFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ìã±úÿÿÿÿ8Å×äœŞ.
+m	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—£ x8Å×äœŞ.
+<
+java:S1659Q"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
 A
-java:S1659"!Declare "len" on a separate line.(¥®°çÿÿÿÿÿ8Å×äœŞ.
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÃê8Å×äœŞ.
-r
-java:S3008"RRename this field "M_SHIFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ìã±úÿÿÿÿ8Å×äœŞ.
-p	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¸èòûÿÿÿÿ8Å×äœŞ.
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Ÿ„Û¢Ş.
-j	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—£ x8Å×äœŞ.
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ˆÆëüÿÿÿÿ8Å×äœŞ.
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û§Íüúÿÿÿÿ8Å×äœŞ.
-:
-java:S1659"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÏ†Æ8Å×äœŞ.
-:
-java:S1659"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
-[	java:S125"<This block of commented-out lines of code should be removed.(ËÌÔ•ûÿÿÿÿ8Å×äœŞ.
-:
-java:S1659"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
-?
-java:S1659"Declare "i" on a separate line.(¥®°çÿÿÿÿÿ8Å×äœŞ.
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂğÇ“8Å×äœŞ.
-m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¶ùÿÿÿÿ8Å×äœŞ.
-V	java:S125"<This block of commented-out lines of code should be removed.(ıÅüÌ8Å×äœŞ.
+java:S1659t"Declare "i" on a separate line.(¥®°çÿÿÿÿÿ8Å×äœŞ.
+=
+java:S1659‘"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
+k	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×“Î†8Å×äœŞ.
+p	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á³Ÿƒûÿÿÿÿ8Å×äœŞ.
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÏ†Æ8Å×äœŞ.
+W	java:S125Z"<This block of commented-out lines of code should be removed.(˜‹<8Å×äœŞ.
+n
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(º’§G8Å×äœŞ.
+]	java:S125A"<This block of commented-out lines of code should be removed.(ËÌÔ•ûÿÿÿÿ8Å×äœŞ.
+p	java:S100È"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ºÕîúÿÿÿÿ8Å×äœŞ.
+C
+java:S1659t"!Declare "len" on a separate line.(¥®°çÿÿÿÿÿ8Å×äœŞ.
+<
+java:S1659)"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
+k	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂğÇ“8Å×äœŞ.
+n	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ°ÔÂ8Å×äœŞ.
+s	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¸èòûÿÿÿÿ8Å×äœŞ.
+p	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ˆÆëüÿÿÿÿ8Å×äœŞ.
+<
+java:S1659:"Declare "i" on a separate line.(È¢Âñ8Å×äœŞ.
+k	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯‹Êæ8Å×äœŞ.
+X	java:S125>"<This block of commented-out lines of code should be removed.(ıÅüÌ8Å×äœŞ.
+p	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é·¦¸ûÿÿÿÿ8Å×äœŞ.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Ÿ„Û¢Ş.
+p	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û§Íüúÿÿÿÿ8Å×äœŞ.

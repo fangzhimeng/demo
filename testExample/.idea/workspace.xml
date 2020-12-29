@@ -2,51 +2,246 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a0c46df-3cc4-4797-972a-749e605f7d27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0568c85a9db9ac86b95a864de871277ffa6f6579" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f4cff149918baa75d85e202ce55557964de82ac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3da9bec97cc5d6ab82bd4eddc34fdb46a4a8a3fa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a19ba37902f9fd0e1678dfe17095f753feadb98" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bbe6dc1baddbaca2c5f3b1b4dd7ea05600874bb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6eee5b24e725b1b850eca08f3747b701f8d62685" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cb9019283b7a2b9eb34692f9676b90806388a63" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96ec285ff6ed747f56c10a8b0388611ca9ecd083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac1cc171fd4dd679daf044044e789ccb9572fdf7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f78a71af8bbf8cc2f6f313549d4da14bd3771359" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c++test/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c++test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c++test/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c++test/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c++test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctest/ctest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gotest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/bucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/hash/CustomHash.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/javatest-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/javatest-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/surefire-reports/HashTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/surefire-reports/TEST-HashTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/test-classes.684696827.timestamp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javatest/target/test-classes/HashTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scalatest/src/main/scala/com/fzm/flink/StreamingJob.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scalatest/target/classes/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/206cc27a98d13e633ef4056cea74db39335c0699" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7058555877e1abccd51e2e12ffe32419b21736da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a4ce3734f66f3e3b7cb39b629f750aa8442c181" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95d8380d9e30a684cccd72feb146159712497418" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c744804b9508dc51d8c7b8e9e5991c49a866efa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8a68306bfaa01b78786ebd3a99530e1069612be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc1bd57c8f4ee75ccb67c77b30fbc871ded9894d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6278df05955d3ac70733821129bb9fa352c177c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eed1a4ad90590424f7b60719d42072490957e42c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeLinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/binaryCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/offer/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/offer/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/offer/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/sort/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/sort/RadixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/sort/binaryCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javatest/target/classes/com/fzm/sort/bucketSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/baby_names.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/baby_names.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/baby_names_reduced.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-cluster/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-cluster/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-cluster/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-cluster/src/main/scala/SparkPi.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__asm_asm_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_beust_jcommander_1_48_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_esotericsoftware_kryo_kryo_2_21_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_esotericsoftware_minlog_minlog_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_esotericsoftware_reflectasm_reflectasm_1_07_shaded_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_github_fommil_netlib_core_1_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_github_rwl_jtransforms_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_ning_async_http_client_1_9_28_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_istack_istack_commons_runtime_2_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_jersey_contribs_jersey_guice_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_jersey_jersey_core_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_jersey_jersey_json_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_jersey_jersey_server_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_jersey_jersey_test_framework_jersey_test_framework_grizzly2_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_xml_bind_jaxb_core_2_2_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_xml_bind_jaxb_impl_2_2_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_sun_xml_fastinfoset_FastInfoset_1_2_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_twitter_chill_2_11_0_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_twitter_chill_java_0_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_11_2_3_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_typesafe_akka_akka_remote_2_11_2_3_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_2_11_2_3_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__com_typesafe_config_1_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_codec_commons_codec_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__io_netty_netty_3_10_3_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__io_netty_netty_all_4_0_29_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__javax_xml_bind_jsr173_api_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__net_razorvine_pyrolite_4_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__net_sf_opencsv_opencsv_2_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__net_sf_py4j_py4j_0_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__net_sourceforge_f2j_arpack_combined_all_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_3_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_mesos_mesos_0_21_1_shaded_protobuf_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_parquet_parquet_generator_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_graphx_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_mllib_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_1_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_8_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_2_7_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_codehaus_janino_janino_2_7_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_codehaus_jettison_jettison_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_jfarcand_wcs_1_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_jpmml_pmml_agent_1_1_15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_jpmml_pmml_model_1_1_15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_jpmml_pmml_schema_1_1_15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_objenesis_objenesis_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scala_lang_scalap_2_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scalaj_scalaj_http_2_11_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scalanlp_breeze_2_11_0_11_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_scalanlp_breeze_macros_2_11_0_11_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_spire_math_spire_2_11_0_7_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_spire_math_spire_macros_2_11_0_7_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_tachyonproject_tachyon_client_0_8_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_tachyonproject_tachyon_underfs_hdfs_0_8_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_tachyonproject_tachyon_underfs_local_0_8_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_tachyonproject_tachyon_underfs_s3_0_8_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_uncommons_maths_uncommons_maths_1_2_2a_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__stax_stax_api_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/modules/spark-ml-example-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/modules/spark-ml-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/sonarlint/issuestore/7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/input/English.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/input/Russian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/input/Spanish.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/project/assembly.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/src/main/scala/com/supergloo/KMeanTrainTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/src/main/scala/com/supergloo/SlackMLApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/src/main/scala/com/supergloo/SlackReceiver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/src/main/scala/com/supergloo/SlackStreamingTask.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-ml/src/main/scala/com/supergloo/Utils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/baby_names.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/project/assembly.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/src/main/scala/com/supergloo/SparkSQLCSVApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-sql/src/main/scala/com/supergloo/SparkSQLJDBCApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/project/assembly.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/src/main/scala/com/supergloo/SlackReceiver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/src/main/scala/com/supergloo/SlackStreamingApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/src/test/scala/com/supergloo/SlackStreamingTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming-tests/src/test/scala/org/apache/spark/streaming/ClockWrapper.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming/build.ORIG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming/project/assembly.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming/src/main/scala/com/supergloo/SlackReceiver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-course-master/spark-streaming/src/main/scala/com/supergloo/SlackStreamingApp.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cb9019283b7a2b9eb34692f9676b90806388a63" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cb9019283b7a2b9eb34692f9676b90806388a63" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96ec285ff6ed747f56c10a8b0388611ca9ecd083" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96ec285ff6ed747f56c10a8b0388611ca9ecd083" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javatest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javatest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scalatest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scalatest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/bucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/bucketSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,87 +262,98 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scalatest/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="1254">
+              <caret line="57" column="5" selection-start-line="49" selection-start-column="3" selection-end-line="57" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scalatest/src/main/scala/com/fzm/flink/StreamingJob.scala">
+        <entry file="file://$PROJECT_DIR$/spark-course-master/spark-ml/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state relative-caret-position="264">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-439">
+              <caret line="464" column="26" lean-forward="true" selection-start-line="464" selection-start-column="26" selection-end-line="464" selection-end-column="26" />
               <folding>
-                <element signature="e#342#387#0" expanded="true" />
+                <element signature="e#5702#5711#0" expanded="true" />
+                <element signature="e#5749#5758#0" expanded="true" />
+                <element signature="e#5794#5795#0" expanded="true" />
+                <element signature="e#5823#5824#0" expanded="true" />
+                <element signature="e#6892#6893#0" expanded="true" />
+                <element signature="e#6929#6930#0" expanded="true" />
+                <element signature="e#7884#7885#0" expanded="true" />
+                <element signature="e#7936#7937#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java">
+        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeLinkNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-628">
-              <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/bucketSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="428">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-common/1.10.1/flink-table-common-1.10.1.jar!/org/apache/flink/table/api/Types.class">
+        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/RandomListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="66">
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-scala-bridge_2.11/1.10.1/flink-table-api-scala-bridge_2.11-1.10.1.jar!/org/apache/flink/table/api/scala/internal/StreamTableEnvironmentImpl.class">
+        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+            <state relative-caret-position="396">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-common/1.10.1/flink-table-common-1.10.1.jar!/org/apache/flink/table/sources/TableSource.class">
+        <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="440">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scalatest/src/main/scala/ClasstagTest.scala">
+        <entry file="jar://$USER_HOME$/src.zip!/java/util/PriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="13794">
+              <caret line="668" selection-start-line="668" selection-end-line="668" />
+              <folding>
+                <element signature="e#5256#5257#0" expanded="true" />
+                <element signature="e#5314#5315#0" expanded="true" />
+                <element signature="e#12127#12128#0" expanded="true" />
+                <element signature="e#12158#12159#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javatest/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        <entry file="jar://$USER_HOME$/src.zip!/java/util/Comparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2310">
-              <caret line="105" selection-start-line="12" selection-start-column="3" selection-end-line="105" />
+            <state relative-caret-position="2640">
+              <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -175,8 +381,23 @@
       <find>M_MASK</find>
       <find>Blizzard</find>
       <find>//</find>
+      <find>https://www.cnblogs.com/onepixel/articles/7674659.html</find>
+      <find>ReverseSentence</find>
+      <find>，</find>
+      <find>TreeNode</find>
+      <find>cnt</find>
+      <find>数组中的逆序对</find>
+      <find>56</find>
+      <find>扑克牌顺子</find>
+      <find>普通二叉树</find>
+      <find>平衡二叉树</find>
+      <find>NumberOf1</find>
     </findStrings>
+    <replaceStrings>
+      <replace>,</replace>
+    </replaceStrings>
   </component>
+  <component name="GOROOT" path="C:\Users\gskj2\go\go1.14.4" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -191,7 +412,17 @@
         <option value="$PROJECT_DIR$/javatest/pom.xml" />
         <option value="$PROJECT_DIR$/scalatest/pom.xml" />
         <option value="$PROJECT_DIR$/scalatest/src/main/scala/com/fzm/flink/StreamingJob.scala" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/bucketSort.java" />
         <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/binaryCount.java" />
+        <option value="$PROJECT_DIR$/spark-course-master/spark-ml/build.properties" />
+        <option value="$PROJECT_DIR$/spark-course-master/spark-ml/project/build.properties" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeNode.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/ListNode.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java" />
       </list>
     </option>
   </component>
@@ -210,30 +441,14 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="javatest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="javatest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="javatest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="1380" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -241,6 +456,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,6 +507,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="fzm" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testExample" type="462c0819:PsiDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fzm" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testExample" type="462c0819:PsiDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fzm" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,11 +561,28 @@
               <item name="scalatest" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testExample" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-course-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testExample" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-course-master" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testExample" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-course-master" type="462c0819:PsiDirectoryNode" />
+              <item name="spark-ml" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -342,13 +595,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/flink-1.10.2-bin-scala_2.11/flink-1.10.2/lib/flink-dist_2.11-1.10.2.jar!/" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-course-master/spark-ml/build.sbt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2999045" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -371,10 +625,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamingJob">
+  <component name="RunManager" selected="Application.Point">
     <configuration name="ClasstagTest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ClasstagTest" />
       <module name="scalatest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fzm.sort.HeapSort" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fzm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fzm.offer.Point" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fzm.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -392,8 +672,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="binaryCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fzm.sort.binaryCount" />
+      <module name="javatest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fzm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.binaryCount" />
+        <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.StreamingJob" />
         <item itemvalue="Application.ClasstagTest" />
       </list>
@@ -422,7 +718,25 @@
       <workItem from="1605854486989" duration="887000" />
       <workItem from="1605857704159" duration="510000" />
       <workItem from="1606096990218" duration="12698000" />
-      <workItem from="1606801490358" duration="1726000" />
+      <workItem from="1606801490358" duration="6336000" />
+      <workItem from="1606898155722" duration="553000" />
+      <workItem from="1606982299469" duration="4798000" />
+      <workItem from="1607052620427" duration="1771000" />
+      <workItem from="1607312130662" duration="537000" />
+      <workItem from="1607392855330" duration="499000" />
+      <workItem from="1607415316074" duration="550000" />
+      <workItem from="1607492704306" duration="424000" />
+      <workItem from="1607495194565" duration="492000" />
+      <workItem from="1607584218136" duration="478000" />
+      <workItem from="1607930783484" duration="10950000" />
+      <workItem from="1607997089917" duration="1002000" />
+      <workItem from="1607999261996" duration="6247000" />
+      <workItem from="1608173678163" duration="4898000" />
+      <workItem from="1608194252670" duration="554000" />
+      <workItem from="1608301668911" duration="7706000" />
+      <workItem from="1608515664517" duration="6539000" />
+      <workItem from="1608534717559" duration="608000" />
+      <workItem from="1609207803745" duration="1745000" />
     </task>
     <task id="LOCAL-00001" summary="hash test">
       <created>1605839256421</created>
@@ -445,16 +759,23 @@
       <option name="project" value="LOCAL" />
       <updated>1605854094391</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hash test 和scala classtag">
+      <created>1606804917207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606804917207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22738000" />
+    <option name="totallyTimeSpent" value="77699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -462,7 +783,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32459018" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3442623" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.24958402" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -477,11 +798,11 @@
       <window_info anchor="bottom" id="SBT Execute" order="15" side_tool="true" />
       <window_info anchor="bottom" id="ANTLR Preview" order="16" />
       <window_info anchor="bottom" id="JProfiler" order="17" />
-      <window_info anchor="bottom" id="Messages" order="18" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="18" weight="0.25409836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.054462936" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.052950077" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="SciView" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -505,24 +826,139 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/HeapSort.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/HeapSort.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/HeapSort.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/HeapSort.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/binaryCount.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/src.zip!/java/util/PriorityQueue.java</url>
+          <line>335</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/src.zip!/java/util/PriorityQueue.java</url>
+          <line>644</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/src.zip!/java/util/PriorityQueue.java</url>
+          <line>668</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/src.zip!/java/util/PriorityQueue.java</url>
+          <line>670</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>495</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>673</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>670</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>550</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>551</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>570</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>564</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>563</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java</url>
+          <line>568</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="newHead" />
+        <watch expression=" dp[flag][j]" />
+        <watch expression="dp[1 - flag][j - k]" />
+        <watch expression="j - k" />
+        <watch expression="dp[0][i - 2]" />
+        <watch expression="str[i - 1] " />
+        <watch expression=" pattern[j - 1]" />
+        <watch expression="dp[i - 1][j - 1]" />
+        <watch expression="(pattern[j - 2]" />
+        <watch expression="dp[i][j - 2]" />
+        <watch expression="pattern[j - 1]" />
+        <watch expression="dp[i][j - 1]" />
+        <watch expression="dp[i - 1][j]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scalatest/src/main/java/Classtag" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/hash/CustomHash.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme">
       <provider selected="true" editor-type-id="text-editor">
@@ -575,6 +1011,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scalatest/src/main/scala/com/fzm/flink/StreamingJob.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+          <folding>
+            <element signature="e#342#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="66" column="44" selection-start-line="66" selection-start-column="2" selection-end-line="66" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-table-api-scala-bridge_2.11/1.10.1/flink-table-api-scala-bridge_2.11-1.10.1.jar!/org/apache/flink/table/api/scala/internal/StreamTableEnvironmentImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -586,6 +1039,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-course-master/spark-ml/build.properties" />
+    <entry file="file://$PROJECT_DIR$/spark-course-master/spark-ml/project/assembly.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-course-master/spark-ml/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-course-master/spark-cluster/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-course-master/spark-cluster/build.sbt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-course-master/spark-ml/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -604,6 +1090,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/binaryCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/bucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/hash/CustomHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="5" selection-start-line="49" selection-start-column="3" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-course-master/spark-ml/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13794">
+          <caret line="668" selection-start-line="668" selection-end-line="668" />
+          <folding>
+            <element signature="e#5256#5257#0" expanded="true" />
+            <element signature="e#5314#5315#0" expanded="true" />
+            <element signature="e#12127#12128#0" expanded="true" />
+            <element signature="e#12158#12159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javatest/src/test/java/HashTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -611,27 +1180,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scalatest/src/main/scala/com/fzm/flink/StreamingJob.scala">
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/TreeLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="428">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/offer/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="464" column="26" lean-forward="true" selection-start-line="464" selection-start-column="26" selection-end-line="464" selection-end-column="26" />
           <folding>
-            <element signature="e#342#387#0" expanded="true" />
+            <element signature="e#5702#5711#0" expanded="true" />
+            <element signature="e#5749#5758#0" expanded="true" />
+            <element signature="e#5794#5795#0" expanded="true" />
+            <element signature="e#5823#5824#0" expanded="true" />
+            <element signature="e#6892#6893#0" expanded="true" />
+            <element signature="e#6929#6930#0" expanded="true" />
+            <element signature="e#7884#7885#0" expanded="true" />
+            <element signature="e#7936#7937#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/RadixSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-628">
-          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/com/fzm/sort/bucketSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
