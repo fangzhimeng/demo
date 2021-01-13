@@ -43,7 +43,7 @@ import static org.apache.spark.sql.functions.col;
 public class JavaTokenizerExample {
   public static void main(String[] args) {
     SparkSession spark = SparkSession
-      .builder()
+      .builder().config("spark.master", "local")
       .appName("JavaTokenizerExample")
       .getOrCreate();
 
