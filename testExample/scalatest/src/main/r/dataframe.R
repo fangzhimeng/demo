@@ -19,6 +19,7 @@
 # ./bin/spark-submit examples/src/main/r/dataframe.R
 
 library(SparkR)
+system("java -version")
 
 # Initialize SparkSession
 sparkR.session(appName = "SparkR-DataFrame-example")
